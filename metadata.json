@@ -1,0 +1,6 @@
+{
+  "name": "QRForge — QR Code Generator & Designer",
+  "description": "A polished, responsive frontend-only QR code generator and designer with live preview, custom styling, presets, validation, and PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
